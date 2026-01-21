@@ -1,4 +1,4 @@
-//number of overtakes
+//inversive count
 #include <iostream>
 using namespace std;
 
@@ -61,4 +61,5 @@ int main() {
     }
     cout<<mergesort(arr,0,n-1);
     return 0;
+
 }
